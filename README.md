@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZCyborgs an Expert in Cyber Security, Programing and DevOps
+- 👋 Hi, I’m @ZCyborgs an Expert in Cyber Security, Programming and DevOps
 - 👀 I’m interested in CyberSec, Programming & DevOps
 - 🌱 I’m currently learning CyberSec, C++, Python, Bash, PowerShell Programing
 - 💞️ I’m looking to collaborate on CyberSec, Programming and DevOps
